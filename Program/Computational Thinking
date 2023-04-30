@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:;orange">
+
+<h1 style="background-color:yellow;" h1 style="color:red;">Computational Thinking</h1>
+<p>Computational thinking (CT) refers to the thought processes involved in formulating problems so their solutions can be represented as computational steps and algorithms.</p>
+
+  <img src="CT_image.jpg" alt="Image">
+  
+</body>
+</html>
